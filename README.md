@@ -1,10 +1,10 @@
-<img width="1536" height="2730" alt="soundpartyinfo" src="https://github.com/user-attachments/assets/dc0f39cb-d289-4202-b241-389889f8541c" />
+
 # 🎵 SoundParty
 
 **Transform multiple devices into a unified, synchronized sound system.**
 
 SoundParty is a native Android application designed for synchronized multi-device audio playback over local networks and Bluetooth. Whether you are splitting channels for a true spatial stereo setup or syncing multiple standalone speakers, SoundParty ensures perfectly aligned audio with zero echo.
-
+<img width="700" height="auto" alt="soundpartyinfo" src="https://github.com/user-attachments/assets/dc0f39cb-d289-4202-b241-389889f8541c" />
 ---
 
 ## 🚀 Features
