@@ -2,7 +2,7 @@
 
 # 🎵 SoundParty
 
-**Transform multiple devices into a unified, synchronized sound system.**
+**Sync phones to play music together. Add bluetooth devices to create immersive soundstage **
 
 SoundParty is a native Android application designed for synchronized multi-device audio playback over local networks and Bluetooth. Whether you are splitting channels for a true spatial stereo setup or syncing multiple standalone speakers, SoundParty ensures perfectly aligned audio with zero echo.
 
