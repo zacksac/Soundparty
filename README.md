@@ -1,3 +1,4 @@
+<img width="1536" height="2730" alt="soundpartyinfo" src="https://github.com/user-attachments/assets/dc0f39cb-d289-4202-b241-389889f8541c" />
 # 🎵 SoundParty
 
 **Transform multiple devices into a unified, synchronized sound system.**
