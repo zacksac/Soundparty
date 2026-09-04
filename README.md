@@ -4,6 +4,8 @@
 **Transform multiple devices into a unified, synchronized sound system.**
 
 SoundParty is a native Android application designed for synchronized multi-device audio playback over local networks and Bluetooth. Whether you are splitting channels for a true spatial stereo setup or syncing multiple standalone speakers, SoundParty ensures perfectly aligned audio with zero echo.
+
+
 <img width="700" height="auto" alt="soundpartyinfo" src="https://github.com/user-attachments/assets/dc0f39cb-d289-4202-b241-389889f8541c" />
 ---
 
@@ -41,6 +43,11 @@ Due to varying Bluetooth latencies, you can perfectly align your speakers using 
 Download the latest release of SoundParty directly from the [Google Play Store](https://play.google.com/store/apps/details?id=com.zack.soundparty).
 
 ---
+
+<img width="768" height="1365" alt="play in stereo" src="https://github.com/user-attachments/assets/e9ba50ef-8150-420d-bf6b-e2f87ca7b386" />
+<img width="768" height="1365" alt="sparty sync" src="https://github.com/user-attachments/assets/a7812145-1423-4dc9-a9fe-39776c5f9438" />
+<img width="768" height="1365" alt="soundparty play music together" src="https://github.com/user-attachments/assets/aed6390b-9267-4a69-a004-acd74e31cfcd" />
+
 
 ## 💻 Technical Stack
 * **Language:** Kotlin, C++ (JNI)
